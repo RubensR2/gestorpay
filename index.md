@@ -2,7 +2,7 @@
 title: "Gestor Pay"
 draft: false
 language: pt-br
-featured_image: assets/gestorpay.png
+featured_image: ![GestorPay](assets/gestorpay.png)
 summary: Projeto de auxílio para gestão de pequenas e médias empresas.
 author: Unifil - Rubens Rocha
 categories: Blog
